@@ -1,0 +1,148 @@
+.vheight-100 {
+  min-height: 100vh;
+}
+
+.navbar-padding {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  margin-left: 1em;
+  margin-right: 1em;  
+}
+
+.icon-size {
+  font-size: 1.5rem;
+}
+
+.button-homepage{
+  outline: none;
+  border: 0;
+  box-shadow: none; 
+  background-color: transparent;
+}
+
+.button-homepage:hover {
+  background-color: #2accf0;
+}
+
+.homepage-title {
+  padding-top: 5rem;
+  text-align: center;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: red;
+}
+
+.below-title{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.table-accordion-card-header{
+  text-align: center;
+}
+
+.col-accordion{
+  width: 20%;
+}
+
+.button-below-table{
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.login-form{
+  margin-top: 10rem;
+  text-align: center;
+  border: #cdcdcd medium solid;
+  border-radius: 10px;
+  border-spacing: 15px;
+}
+
+.login-form-button{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.login-alert{
+  margin-top: 1rem;
+}
+
+
+.user-button{
+  outline: none;
+  border: 0;
+  box-shadow: none; 
+  background-color: transparent;
+}
+
+.user-button:hover {
+  background-color: #2accf0;
+}
+
+.offcanvas{
+  background-color: rgb(255, 248, 230);
+}
+
+.logout-button-row{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  margin-bottom: 1rem;
+}
+
+.studyplan-courses-full{
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 5rem;
+}
+
+.studyplan-titles{
+  padding-top: 0.5rem;
+  text-align: center;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  color: red;
+}
+.card-studyplan-option{
+  width: 100%;
+  height: 33%;
+  border-color: blue;
+  text-align: center;
+}
+
+.card-studyplan-option-text{
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.save-studyplan-buttons{
+  margin-top: 2rem;
+}
+
+.incompatible-row{
+  background-color: rgba(248, 78, 78, 0.575);
+}
+
+.notavailable-row{
+  background-color: rgba(177, 165, 57, 0.2);
+}
+
+.fullcourse-row{
+  background-color: rgba(255, 101, 101, 0.2);
+}
+
+.spinner {
+  display: block;
+  position: fixed;
+  z-index: 1031;
+  top: 50%;
+  right: 50%;
+}
+
+.smallcol{
+  width: 10%;
+}
